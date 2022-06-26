@@ -1,1 +1,1 @@
-# 2022
+# Redirect to current year's site
